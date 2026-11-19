@@ -1,0 +1,14 @@
+# Dados brutos originais - não publicar no GitHub
+data/raw/
+
+# Arquivos temporários do sistema
+*.tmp
+*.log
+
+# Configurações locais
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
